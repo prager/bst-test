@@ -1,2 +1,2 @@
 # bst-test
-For testing Bootstrap and CodeIgniter
+<p>For testing Bootstrap and CodeIgniter</p>
